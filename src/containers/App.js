@@ -35,7 +35,7 @@ class App extends Component {
           <h1 className='f1'>Mega Man <br></br> Master Robots <br></br> Series 2-5</h1>
         <div className="icon">
         <a href="https://www.linkedin.com/in/omarruizramos/"><img alt="pixel linkedin icon" src="https://i.imgur.com/XOhPSGf.png"/></a>
-        <a href="https://github.com/oruizramos/React-Mega-Man-Master-Robots-Catalog"><img alt='Pixel github icon' src="https://i.imgur.com/4n1RZB4.png"/></a>
+        <a href="https://github.com/oruizramos/Mega-Man-Robot-Masters-Catalogue"><img alt='Pixel github icon' src="https://i.imgur.com/4n1RZB4.png"/></a>
         </div>
           <SearchBox searchChange={this.onSearchChange}/>
           <Scroll>

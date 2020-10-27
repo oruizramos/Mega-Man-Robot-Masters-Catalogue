@@ -6,7 +6,7 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-Tribute to classic Mega Man. Catalog with dynamic/auto-updatable search bar to look for an specific Robot Master (From series 2-5) 
+Tribute to classic Mega Man. Catalogue with dynamic/auto-updatable search bar to look for an specific Robot Master (From series 2-5) 
 
 Data is being pulled from the following API: https://megaman-robot-masters.herokuapp.com/ 
 
