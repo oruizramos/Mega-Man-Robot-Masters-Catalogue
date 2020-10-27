@@ -1,0 +1,15 @@
+/* #### This kit is provided to you by Fonts2u.com – the largest online 
+repository of free fonts for Windows and Mac. */
+
+@font-face {font-family:"MegaMan 2 Regular";src:url("megaman_2.eot?") format("eot"),url("megaman_2.woff") format("woff"),url("megaman_2.ttf") format("truetype"),url("megaman_2.svg#MegaMan-2") format("svg");font-weight:normal;font-style:normal;}
+
+
+h1 {
+  font-family: 'MegaMan 2 Regular';
+  font-weight: 200;
+  color: lightblue;
+}
+
+footer {
+  text-align: center;
+}
