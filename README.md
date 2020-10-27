@@ -1,4 +1,4 @@
-# Mega Man Robot Masters Catalog
+# Mega Man Robot Masters Catalogue
 Project to practice and use React JS and API data retrieval. 
 To run the project:
 
